@@ -8,6 +8,7 @@ import org.hibernate.validator.constraints.NotEmpty;
 
 import com.hector.cursomc.domain.Cliente;
 
+
 public class ClienteDTO implements Serializable {
 	private static final long serialVersionUID = 1L;
 
