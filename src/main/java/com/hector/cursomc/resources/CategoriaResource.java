@@ -24,6 +24,7 @@ import com.hector.cursomc.services.CategoriaService;
 @RestController
 @RequestMapping(value = "/categorias")
 public class CategoriaResource {	
+	
 	@Autowired
 	private CategoriaService service; 
 
